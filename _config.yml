@@ -1,10 +1,10 @@
-title: Hacker-Blog
-description: "A Jekyll Blog Theme For Hackers"
+title: Sarc Blog
+description: "Journey till here"
 author:
-  name: "SomeHacker"
-  email: "someone@somewebsite.somedomain"
-  url: "https://ashishchaudhary.in/hacker-blog"
-
+  name: "sarc"
+  email: "ssarc@testmail.com"
+  url: 
+  
 baseurl: /
 
 source: .
@@ -28,5 +28,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "SomeHacker"
-year : "2020"
+owner : "sarc"
+year : "2022"
